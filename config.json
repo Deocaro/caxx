@@ -9,11 +9,11 @@
             "enabled": "1"
         },
         "Filmpertutti": {
-            "url": "https://filmpertutti.motorcycles",
+            "url": "https://filmpertutti.be",
             "enabled": "1"
         },
         "Tantifilm": {
-            "url": "https://www.tanti.bond",
+            "url": "https://www.tanti.living",
             "TF_ForwardProxy": "0",
             "TF_PROXY": "1",
             "enabled": "1"
@@ -30,7 +30,7 @@
             "enabled": "1"
         },
         "CB01": {
-            "url": "https://cb01net.stream",
+            "url": "https://cb01net.org",
             "CB_PROXY": "1",
             "CB_ForwardProxy": "0",
             "MX_ForwardProxy": "0",
@@ -48,7 +48,7 @@
             "enabled": "1"
         },
         "Guardaserie": {
-            "url": "https://guardaserietv.mom",
+            "url": "https://guardaserietv.now",
             "enabled": "1",
             "GS_ForwardProxy": "0",
             "GS_PROXY": "1"
@@ -60,7 +60,7 @@
             "GH_PROXY": "1"
         },
         "Onlineserietv": {
-            "domain": "com",
+            "domain": "https://onlineserietv.com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
@@ -72,7 +72,7 @@
             "AW_PROXY": "1"
         },
         "SkyStreaming": {
-            "url": "https://skystreaming.onl",
+            "url": "https://skystreaming.blog",
             "enabled": "1"
         },
         "DaddyLiveHD": {
