@@ -60,7 +60,7 @@
             "GH_PROXY": "1"
         },
         "Onlineserietv": {
-            "domain": "https://onlineserietv.com",
+            "url": "https://onlineserietv.com",
             "enabled": "1",
             "OST_ForwardProxy": "0",
             "OST_PROXY": "0"
